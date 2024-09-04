@@ -1,0 +1,59 @@
+# .NET Core
+*.dll
+*.exe
+*.pdb
+*.dbmdl
+*.bak
+*.sql
+*.user
+*.suo
+*.swp
+*.suo
+*.nupkg
+*.snk
+*.suo
+*.userosscache
+*.userprefs
+*.vs
+*.vscode
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Files created by Visual Studio for Mac
+.vscode/
+.idea/
+*.tmp
+*.tmp.*
+*.log
+
+# Rider IDE files
+.idea/
+
+# macOS
+.DS_Store
+
+# npm
+node_modules/
+package-lock.json
+yarn.lock
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# JetBrains Rider
+.idea/
+
+# Local History for JetBrains Rider
+.localhistory/
+
+# Environment-specific files
+.env
+
+# Build results
+bin/
+obj/
